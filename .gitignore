@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+tokens.json
+config.json
+.minimax-web2api/

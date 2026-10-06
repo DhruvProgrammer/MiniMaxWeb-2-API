@@ -1,0 +1,11 @@
+{
+  "host": "127.0.0.1",
+  "port": 8082,
+  "region": "global",
+  "api_keys": [],
+  "proxy": null,
+  "settle_sec": 4.0,
+  "stream_mode": "live",
+  "max_concurrent": 4,
+  "request_timeout_sec": 300
+}
